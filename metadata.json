@@ -1,0 +1,7 @@
+{
+  "name": "PROCEDIMENTO OPERACIONAL PADRÃO - BAIXA PATRIMONIAL",
+  "description": "A digital Standard Operating Procedure (POP) tool for asset write-offs. Features AI-powered asset condition analysis and automated formal justification drafting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
